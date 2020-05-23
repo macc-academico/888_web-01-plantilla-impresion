@@ -3,8 +3,8 @@
     - head solo se encuentre en la pagina 1
     - head se repita, en toda la pagina
 
-# link plantilla
+# link
 
-    https://macc-academico.github.io/888_web-01-plantilla-impresion/
+https://macc-academico.github.io/888_web-01-plantilla-impresion/
 
-    https://macc-academico.github.io/888_web-01-plantilla-impresion/index2.html
+https://macc-academico.github.io/888_web-01-plantilla-impresion/index2.html
